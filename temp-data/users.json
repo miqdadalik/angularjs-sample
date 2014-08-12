@@ -1,0 +1,27 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "fullname": "Admin",
+        "designation": "CEO"
+    },
+    {
+        "username": "user1",
+        "password": "user1",
+        "fullname": "User1",
+        "designation": "Project Manager"
+    },
+    {
+        "username": "user2",
+        "password": "user2",
+        "fullname": "User2",
+        "designation": "Team Lead"
+        
+    },
+    {
+        "username": "user3",
+        "password": "user3",
+        "fullname": "User3",
+        "designation": "Developer"
+    }
+]

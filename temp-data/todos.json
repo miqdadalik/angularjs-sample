@@ -1,0 +1,32 @@
+[
+    {
+        "item": "Design a nice theme ",
+        "date": "2 mins",
+        "status": "completed"
+    },
+    {
+        "item": "Make the theme responsive ",
+        "date": "4 hours",
+        "status": "completed"
+    },
+    {
+        "item": "Let theme shine like a star ",
+        "date": "2 days",
+        "status": "not completed"
+    },
+    {
+        "item": "Let theme shine like a star ",
+        "date": "1 week",
+        "status": "not completed"
+    },
+    {
+        "item": "Check your messages and notifications  ",
+        "date": "2 week",
+        "status": "completed"
+    },
+    {
+        "item": "Design a nice theme ",
+        "date": "1 month",
+        "status": "not completed"
+    }
+]
